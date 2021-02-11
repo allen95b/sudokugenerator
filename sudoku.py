@@ -1,0 +1,1 @@
+print("Hello friends! Welcome to my sudoku generator. Enjoy!")
